@@ -487,7 +487,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_btn.scss */
 .boxed-btn {
-  background: #fff;
+  background: #000;
   color: #EB4100;
   display: inline-block;
   padding: 12px 44px;
@@ -954,11 +954,9 @@ h3 {
   z-index: 99;
   border: none;
   border-radius: 3px;
-  top: 5px;
   padding: 5px;
   right: 0;
   margin-top: -5px;
-  top: -36px;
 }
 
 /* line 106, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slick-nav.scss */
@@ -5572,21 +5570,6 @@ h6 {
 }
 
 
-/*---------------------------------------
-  VIDEO              
------------------------------------------*/
-.video-wrap {
-  z-index: -100;
-}
-
-.custom-video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-}
 
 /*---------------------------------------
   ABOUT              
@@ -5746,4 +5729,12 @@ h6 {
 /* line 146, ../../Arafath/CL/December/236. Event-02/HTML/scss/_registration.scss */
 .registration-section .btn_2:hover {
   background-color: #ff5e13;
+}
+
+.registration-section .reg_thumb .thumb_inner img {
+  width: 100%;
+}
+
+.reg-form{
+  margin-top: 50px;
 }
