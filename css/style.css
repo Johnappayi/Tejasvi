@@ -1479,7 +1479,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/banner.webp);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
@@ -2022,12 +2022,12 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner.png);
+  background-image: url(../img/banner.webp);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_2 {
-  background-image: url(../img/banner.png);
+  background-image: url(../img/banner.webp);
 }
 
 /* line 7, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
@@ -2037,7 +2037,7 @@ h3 {
 
 /* line 10, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_4 {
-  background-image: url(../img/banner.png);
+  background-image: url(../img/banner.webp);
 }
 
 /* line 14, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
@@ -2385,7 +2385,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_program_details.scss */
 .detials_bg_1 {
-  background-image: url(../img/details_banner.png);
+  background-image: url(../img/details_banner.webp);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_program_details.scss */
@@ -5575,14 +5575,14 @@ h6 {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-image: url('../img/edward-unsplash-blur.jpg');
+  background-image: url('../img/edward-unsplash-blur.webp');
   background-color: #704010;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 .about-section2 {
-  background-image: url('../img/about_banner.png');
+  background-image: url('../img/about_banner.webp');
   background-color: #704010;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5641,7 +5641,7 @@ h6 {
   HERO              
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../img/hero.png');
+  background-image: url('../img/hero.webp');
   background-color: #704010;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5652,7 +5652,7 @@ h6 {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-image: url('../img/edward-unsplash-blur.jpg');
+  background-image: url('../img/edward-unsplash-blur.webp');
   background-color: #704010;
   background-repeat: no-repeat;
   background-size: cover;
