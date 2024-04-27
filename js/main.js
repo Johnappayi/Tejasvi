@@ -12,8 +12,21 @@ $(window).on('scroll', function () {
 	}
 });
 
+// document.addEventListener('DOMContentLoaded', function() {
+//   const loader = document.querySelector('.loader-wrapper');
+//   loader.style.opacity = '0'; // Start fading out
+//   setTimeout(function() {
+//     loader.style.display = 'none'; // Hide loader after fade out
+//   }, 500); // Adjust the time as needed for the fade out effect
+// });
 
-
+// window.addEventListener('load', function() {
+//   const loader = document.querySelector('.loader-wrapper');
+//   loader.style.opacity = '0'; // Start fading out
+//   setTimeout(function() {
+//     loader.style.display = 'none'; // Hide loader after fade out
+//   }, 500); // Adjust the time as needed for the fade out effect
+// });
 
 
 $(document).ready(function(){
